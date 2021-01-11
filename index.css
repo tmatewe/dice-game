@@ -9,3 +9,7 @@
 .btn-info {
   margin: 5px;
 }
+.btn-lg {
+  font-size: x-large;
+  font-weight: bolder;
+}
