@@ -1,5 +1,6 @@
 .container {
-  width: 250px;
+  width: 500px;
+  height: 500px;
   background-color: #eeee;
   border-radius: 10%;
   padding: 20px;
@@ -11,5 +12,9 @@
 }
 
 #message {
-  font-size: small;
+  font-size: large;
+}
+
+.btn-info {
+  margin: 5px;
 }
