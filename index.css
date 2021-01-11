@@ -1,0 +1,15 @@
+.container {
+  width: 250px;
+  background-color: #eeee;
+  border-radius: 10%;
+  padding: 20px;
+  margin: 50px auto;
+}
+
+.btn-dark {
+  margin: 10px;
+}
+
+#message {
+  font-size: small;
+}
