@@ -22,10 +22,10 @@ buttons.forEach((button, index) => {
     results.addEventListener("click", () => {
       if (count == 2) {
         if (allGuessedNumber.includes(randomNumber)) {
-          msg.innerHTML = "Congrats.You have won!!!.";
+          msg.innerHTML = `<h4>Congrats.You have won!!!</h4>Correct guess was ${randomNumber}`;
           msg.style.color = "green";
         } else {
-          msg.innerHTML = "Try again.You have lost.";
+          msg.innerHTML = `<h4>Try again.You have lost...</h4></h6>Correct guess was ${randomNumber}`;
           msg.style.color = "red";
         }
       }

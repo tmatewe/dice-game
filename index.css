@@ -1,12 +1,3 @@
-.container {
-  width: 500px;
-  height: 500px;
-  background-color: #eeee;
-  border-radius: 10%;
-  padding: 20px;
-  margin: 50px auto;
-}
-
 .btn-dark {
   margin: 10px;
 }
